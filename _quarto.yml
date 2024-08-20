@@ -44,10 +44,16 @@ book:
   page-footer: CC-BY (2024) Ashley Robertson and Holly Scott
   chapters:
   - index.qmd
-  - instructions.qmd
+  - about_us.qmd
+  - benefits.qmd
+  - unstructured.qmd
+  - structured.qmd
+  - employability.qmd
+  - accountability.qmd
+  - what_works.qmd
   appendices:
-  - webexercises.qmd
-  - references.qmd
+  - appendix_a.qmd
+  - appendix_b.qmd
 bibliography: include/references.bib
 csl: include/apa.csl
 format:

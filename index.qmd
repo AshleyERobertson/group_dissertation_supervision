@@ -6,4 +6,17 @@ You can navigate to each of the chapters using the bar on the left hand side. Wi
 
 We have structured the book as follows:
 
-Chapter 1: 
+**Main Chapters**
+
+- Chapter 1: About Us
+- Chapter 2: Benefits of Group Supervision
+- Chapter 3: Supervision Catch-up Sessions
+- Chapter 4: Supervision Structured Sessions
+- Chapter 5: Employability and Transferable Skills
+- Chapter 6: Accountability and Transparency
+- Chapter 7: Finding What Works for You
+
+**Appendices**
+
+- Appendix A: Setting Expectations
+- Appendix B: List of Resources
