@@ -46,10 +46,10 @@ book:
   - index.qmd
   - ch1_about_us.qmd
   - ch2_benefits.qmd
-  - ch3_unstructured.qmd
-  - ch4_structured.qmd
-  - ch5_employability.qmd
-  - ch6_accountability.qmd
+  - ch3_setting_up.qmd
+  - ch4_supervision_summary.qmd
+  - ch5_supervision_examples.qmd
+  - ch6_employability.qmd
   - ch7_what_works.qmd
   appendices:
   - appendix_a.qmd
