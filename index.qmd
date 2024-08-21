@@ -19,4 +19,4 @@ We have structured the book as follows:
 **Appendices**
 
 - Appendix A: Setting Expectations
-- Appendix B: List of Resources
+- Appendix B: List of Resources 
