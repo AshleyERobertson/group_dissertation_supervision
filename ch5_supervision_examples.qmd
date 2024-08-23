@@ -2,13 +2,125 @@
 title: "Examples of Group Supervision Sessions"
 ---
 
-## Proposal lightning talk 
+## Lightning Talks 
 
-## Intro bullet outline discussion 
+*Written by: Dr Holly Scott* 
 
-## Intro draft peer review 
+Lightning talks are short-form presentations (typically 5 minutes maximum) that challenge presenters to summarise their ideas very concisely. The short duration makes Lightning Talks perfect for incorporating into group sessions, and this can be done at any stage in the dissertation. Here is an example of supporting students to clarify their dissertation plans by giving a Proposal Lightning Talk early in the process. 
 
-## Evaluation discussion 
+### Rationale to share with students 
+
+Here is how I explain the rationale behind this activity to my students: 
+
+::: {.callout-note appearance="simple" icon=false}
+
+## Example Rationale for Lightning Talks
+
+As discussed, in next week's meeting we will have short (5 min max) "Lightning Talks" on everyone's proposals. This format is now quite common at conferences, as a way to concisely convey the key take-away messages of a study, allowing interested audience members to discuss more details with you afterwards. 
+
+Some of the benefits of you doing this for your proposal are:  
+
+- You clarify your key arguments/decisions by having to communicate them concisely 
+- You can get informal feedback from the group before finalising your proposal document 
+- You practice skills in presenting that you will use in your course and in future work settings 
+- You get to see how others in the group are approaching issues that could inform your thinking/approach to your own study 
+
+I have shared a template PowerPoint. It's 5 slides and I would challenge you to be as concise as you can. Once you have prepared your proposal document, you can pick out the key points and add them to the slides. Remember that this is for informal feedback from the group - we're not expecting you to get everything right first time and we will be a super supportive and encouraging audience! 
+
+:::
+
+
+### Accompanying resource 
+
+This activity has an accompanying PowerPoint template [link] - feel free to use or adapt this. Depending on their course, this may be one of the first presentations that students have given during their time at university, and they are only at the start of their dissertation. Therefore, I find it helpful to provide this scaffolding to help ease any nerves. 
+
+### Running the group meeting 
+
+In terms of the practicalities of running this group meeting, I ask students to share their slides in advance (for example, in a shared Teams folder) to allow a quick set up and smooth running on the day. I explain to students that – similar to many conferences – I will give them a 1-minute warning and then a “time up” signal. 
+
+We have time for questions after each Lightning Talk. It might be the first time that students are audience members for this type of academic talk, so it can be helpful to provide some guidance at the start of the session on what types of questions they might want to ask. Being mindful that some students can feel nervous about this type of talk, I offer them the option to stay standing up for questions or to rejoin the group for a more informal discussion around the table if they prefer. 
+
+I like to aim for a supportive and encouraging tone in this session. I emphasis that this is about getting some practice and helpful feedback, not about getting everything perfect. To help create a positive atmosphere, I like to light-heartedly challenge my students to “win” at being the most supportive audience: lots of smiling and nodding! 
+
+It can be good to finish this session by inviting students to crowdsource their tips for giving this type of talk, based on what they learned from their experience as a presenter and an audience member. Afterwards, this can be a great stage to encourage students to reflect on their skills development: we provide some guidance on how to support this in Chapter 6 [link]. 
+
+
+## Presenting an Outline for a written section
+
+*Written by: Dr Holly Scott*
+
+ADD IN 
+
+### Rationale to share with students 
+
+### Accompanying resource 
+
+### Running the group meeting 
+
+
+## Peer Review
+
+*Written by: Dr. Holly Scott*
+
+Peer review offers students a useful opportunity to view written work through the lens of a marker, engaging with the Intended Learning Outcomes of the assessment to identify strengths and recommend areas for improvement. Reviewing a peer’s draft can encourage students to think critically about aspects of writing that they want to emulate or avoid in their own work, and those who engage more critically have been shown to go on to earn higher grades [(Yalch et al., 2019)](https://journals.sagepub.com/doi/10.1177/1475725719835070){target="_blank"}.  
+
+Dissertation students can engage in peer review of all sorts of materials: not only drafts, as in this example, but also proposals, ethics applications, materials etc. Peer feedback can be written and/or verbal: in this example, students share written feedback on a draft before a group meeting where this forms the basis for group discussion. 
+
+### Rationale to share with students 
+
+Here is an example of explaining the rationale behind this activity to your students: 
+
+::: {.callout-note appearance="simple" icon=false}
+
+## Example Rationale for Peer Review
+
+Congratulations on completing your Introduction drafts, what a great milestone! As discussed, we’re going to use this as an opportunity for some peer review. The advantage of engaging in this peer review task include: 
+
+- You will benefit from added feedback on your draft, not just from me but also from a peer  
+- The evidence shows that the process of reviewing others' written work helps you to then improve your own
+- You will build experience of how teams work together to produce output (not just in research but all sorts of workplaces) 
+- You will also develop important transferable skills in giving constructive feedback (both written and verbal) 
+
+I have shared a peer review form with some questions for you to reflect on as you read your peer’s work this week. Remember that this is an opportunity to support each other by identifying what is already working well, what could be improved and importantly how it could be improved. Next week we will have a chance to discuss our feedback and crowdsource ideas to help with any common tricky areas. 
+
+:::
+
+In this message to students, I will also list who will be reviewing whose work. You can consider what will support the most useful feedback (for example, grouping together similar methods) as well as avoiding any pitfalls (such as not grouping students together who are working closely on shared pair or group projects, to prevent unintentional plagiarism). 
+
+### Accompanying resource 
+
+Here is an example of a peer review form for Introduction drafts [link]. It is helpful to provide some structure and prompts like these for students to reflect on as they read and review. Feel free to adapt this to suit your own Intended Learning Outcomes or perhaps target common problematic areas of drafts that you have seen repeatedly. 
+
+
+### Running the group meeting 
+
+In terms of set up, I create a shared space (e.g. a Teams folder) where students upload their written feedback ahead of the meeting (say, 24 hours before). So far, I have always shared my own feedback comments for each student here as well, facilitating transparency. However, depending on your group of students each year, if there are any issues then you may consider it more appropriate to send feedback individually. 
+
+As with any interactive session, I like to set a supportive tone and start by reminding the group that all discussion should be encouraging and constructive. I have always been genuinely impressed by the quality of written feedback in my students’ peer reviews, with a consistent encouraging tone and concrete, constructive suggestions for enhancement. This in turn forms the basis for a very productive and supportive group session: for example, it can be useful for students to share experiences of what they found trickier in writing their drafts, to know that they are not alone. 
+
+In practice, during this meeting, I facilitate a group discussion focused on each student’s draft in turn, initially based on input from me and their peer reviewer (on what is working well and what areas they can focus on refining), then opening into a broader discussion about how some of these improvements can be achieved in any strong discussion (involving all group members). Where relevant, it can be encouraging to point out strong aspects of students’ work that are a good example: for instance, if one student has found it difficult to create logical links between paragraphs and another student’s work has good examples of achieving this. 
+
+
+## Evaluation of a Discussion section
+
+*Written by Dr Ashley Robertson (jointly developed with [Dr. Wil Toivo](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/tarutoivo/){target="_blank"}* 
+
+### Rationale to share with students 
+
+
+### Accompanying resource 
+
+
+### Running the group meeting 
+
 
 ## Scientific presentation 
- 
+*Written by Dr Ashley Robertson*
+
+### Rationale to share with students 
+
+
+### Accompanying resource 
+
+
+### Running the group meeting 
