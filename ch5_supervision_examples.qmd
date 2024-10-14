@@ -184,11 +184,32 @@ I usually have printed copies of each of the excerpts (both ‘not so good’ an
 Then, I ask each student to identify one thing that they’ve learned from the session to incorporate into their own Discussion section. I then ask them to write this down and commit to this as an action when they come to write or edit their Discussion.  
 
 
-## Scientific presentation 
+## Conference presentation 
 *Written by Dr Ashley Robertson*
+
+It is important for students to develop skills in presenting. In our School, we hold a conference for students one week after they have submitted their dissertation, in order to help support these skills.
+
+Students have the opportunity to present in one of the following ways: 
+
+- Scientific presentation 
+- Lightning talk
+- Bright Club/Pint of Science talks
+- Panel discussion
+- Written Science Communication piece 
+
+The talks and discussions are presented live in the conference, and the written contributions collated together and sent out. Most students choose to present live at the conference.
+
+Although this is a very supportive experience, students can find presenting a bit daunting. To help, I decided to hold a practice session for those students working with me, to provide them with an opportunity to practice their talk before the conference itself. It also allowed those who were presenting at the British Psychological Society Scottish Branch Undergraduate conference an additional opportunity to practice speaking in front of others.
 
 ### Rationale to share with students 
 
+::: {.callout-note appearance="simple" icon=false}
+
+## Example Rationale for Conference presentation
+
+ADD IN HERE
+
+:::
 
 ### Accompanying resource 
 
