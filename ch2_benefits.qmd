@@ -38,7 +38,7 @@ To provide some context, our Undergraduate supervision is for final year student
 
 In this book, we will mainly discuss how we supervise for final year undergraduate students, as we have found it difficult to schedule group supervision for Online Distance Learning students. Saying this, our supervision approaches are not specific to undergraduate students and would apply equally well to postgraduates. 
 
-::: {.callout-tip icon=false}
+::: {.callout-warning icon=false}
 
 ## Ashley's supervision model
 
@@ -49,25 +49,33 @@ Ashley holds a mixture of group and individual supervision, switching between th
   - Resources are passed on to students: [full breakdown of each session across two semesters can be found here](https://ashleyerobertson.github.io/group_supervision/){target="_blank"}
   - Each session scheduled for around 1 hour, although the final session is longer
 - Individual supervision (e.g. Weeks 2, 4, 6 and so on)
-  - 'Touching base' sessions (see Chapter 4 for more details (**ADD LINK**))
-  - Individual sessions are dedicated time for students to ask questions, 
-
+  - An example of ['Touching base' sessions](#supervision_types))
+  - Individual sessions are dedicated time for students to ask questions, discuss project-specific challenges/concerns and identify priorities for progress
+  - Actions noted for future sessions
+  - Deadlines set using the 'joint deadlines document' (see [Chapter 3](#set_up))
 
 :::
-
 
 ::: {.callout-warning icon=false}
 
 ## Holly's supervision model
 
+Holly holds group supervision sessions on a weekly basis. She splits this between two different types of group supervision sessions:
 
+- 'Milestone' group sessions
+  - Around three milestone sessions are held per semester, each consisting of collaborative activities
+  - With larger groups (e.g. six or more), these are scheduled for around 1.5 hours each
+  - Students are asked to complete activities in advance and during each milestone session
+  - Examples of activities covered in milestone sessions are in [Chapter 5](#supervision_examples)
+- Regular group supervision (or ['Touching Base' session](#supervision_types))
+  - Held on a weekly basis, in the weeks that there is no milestone session
+  - Opportunity to catch up on progress, ask questions and plan progress
+  - Actions noted for future sessions
 
 :::
 
 
 ## Why Supervise Dissertations as a Group? 
-
-## Some of the benefits 
 
 ### Feedback from students  
 
