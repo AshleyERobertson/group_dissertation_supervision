@@ -1,10 +1,71 @@
----
-title: "Benefits of Group Supervision"
----
+# Benefits of Group Supervision {#benefits}
 
-## Why Supervise Dissertations as a Group?  
+One of the biggest assumptions that we have come across is that Group Dissertation Supervision is only possible if all students work on a single project (e.g. looking at different variables) together. 
+
+However, this is not a requirement (and is not how we run our supervision!). In this chapter, we will cover different models to group supervision (including what we do), and why it can be beneficial to supervise dissertation students as a group, even if students are working on completely different projects. 
+
+## Different models of Group Supervision 
+
+There are many different models of dissertation and, indeed, many different models of supervising dissertation students as a group. 
+
+[Creaven et al. (2023)](https://doi.org/10.1525/collabra.90216){target="_blank"} detail different models of undergraduate dissertation supervision in Psychology in their paper. 
+
+Thinking specifically about group supervision, these include:
+
+- Consortium model
+  - Consists of multiple groups of students across different Universities collaborating on one protocol and supervised by supervisor in their University
+  - Example: [Button et al. (2020)](https://doi.org/10.1177/1475725719857659){target="_blank"} 
+- Apprentice-Based Senior Thesis
+  - Students collaborate together in small groups on one protocol; supervised by a single supervisor
+  - Example: [Mickey-Steinmetz & Reid (2019)](https://doi.org/10.3389/fpsyg.2019.00196){target="_blank"} 
+- Collective Academic Supervision
+  - Students meet only as a group and undertake independent (but similar) projects, supervised by the same supervisor
+  - Example: [Dautel (2020)](https://doi.org/10.53841/bpsptr.2020.26.1.18){target="_blank"}
+- Laddered Model
+  - Students are separated into three-person teams, with each team consisting of three students with differing levels of expertise (one experienced, one mid-level and one new to the group)
+  - Example: [Detweiler-Bedell & Detweiler-Bedell (2019)](https://doi.org/10.3389/fpsyg.2019.00133){target="_blank"}
+- "Cluster" projects 
+  - Two members of staff collaborate to supervise students (in groups as well as individually) on projects sharing a) a topic, b) a research question, c) methods or d) type of data analysis. 
+  - Example: [Freeman et al. (2020)](https://doi.org/10.53841/bpsptr.2020.26.1.39){target="_blank"}
+
+There will be other models of supervision used, especially across different disciplines. 
+
+### Our models of supervision
+
+Each of us supervises both Undergraduate and Postgraduate Taught students. We use slightly different models of supervision to each other, although both are closest to the 'Collective Academic Supervision' model described by Creavel et al. (2023). 
+
+To provide some context, our Undergraduate supervision is for final year students who are on-campus, whereas our PGT supervision is for students who are completing their dissertation through Online Distance Learning (and are therefore based all over the world).
+
+In this book, we will mainly discuss how we supervise for final year undergraduate students, as we have found it difficult to schedule group supervision for Online Distance Learning students. Saying this, our supervision approaches are not specific to undergraduate students and would apply equally well to postgraduates. 
+
+::: {.callout-tip icon=false}
+
+## Ashley's supervision model
+
+Ashley holds a mixture of group and individual supervision, switching between the two on a weekly basis:
+
+- Fortnightly group supervision (e.g. Weeks 1, 3, 5 and so on) 
+  - Each supervision is 'themed', with focus on skill development and covering challenges that are consistent across all projects
+  - Resources are passed on to students: [full breakdown of each session across two semesters can be found here](https://ashleyerobertson.github.io/group_supervision/){target="_blank"}
+  - Each session scheduled for around 1 hour, although the final session is longer
+- Individual supervision (e.g. Weeks 2, 4, 6 and so on)
+  - 'Touching base' sessions (see Chapter 4 for more details (**ADD LINK**))
+  - Individual sessions are dedicated time for students to ask questions, 
 
 
+:::
+
+
+::: {.callout-warning icon=false}
+
+## Holly's supervision model
+
+
+
+:::
+
+
+## Why Supervise Dissertations as a Group? 
 
 ## Some of the benefits 
 

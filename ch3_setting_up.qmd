@@ -1,6 +1,5 @@
----
-title: "Getting Set up for the Year Ahead"
----
+# Getting Set up for the Year Ahead {#set_up}
+
 
 ## Transparency and communication  
 

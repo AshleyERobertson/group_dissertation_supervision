@@ -8,15 +8,15 @@ We have structured the book as follows:
 
 **Main Chapters**
 
-- Chapter 1: About Us
-- Chapter 2: Benefits of Group Supervision
-- Chapter 3: Getting Set up for the Year Ahead
-- Chapter 4: Different Types of Group Supervision Sessions
-- Chapter 5: Employability and Transferable Skills
-- Chapter 6: Accountability and Transparency
-- Chapter 7: Finding What Works for You
+- Chapter 1: [About Us](#about_us)
+- Chapter 2: [Benefits of Group Supervision](#benefits)
+- Chapter 3: [Getting Set up for the Year Ahead](#set_up)
+- Chapter 4: [Different Types of Group Supervision Sessions](#supervision_types)
+- Chapter 5: [Examples of Group Supervision Sessions](#supervision_examples)
+- Chapter 6: [Employability and Transferable Skills](#employability)
+- Chapter 7: [Finding What Works for You](#what_works)
 
 **Appendices**
 
-- Appendix A: Setting Expectations
-- Appendix B: List of Resources 
+- Appendix A: [Setting Expectations](#appendix_a)
+- Appendix B: [List of Resources](#appendix_b) **MAY OR MAY NOT INCLUDE: FROM OTHER RESOURCE**

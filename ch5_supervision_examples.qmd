@@ -1,6 +1,4 @@
----
-title: "Examples of Group Supervision Sessions"
----
+# Examples of Group Supervision Sessions {#supervision_examples}
 
 ## Lightning Talks 
 
