@@ -1,6 +1,6 @@
-# Benefits of Group Supervision {#benefits}
+# Benefits (and challenges!) of Group Supervision {#benefits}
 
-One of the biggest assumptions that we have come across is that Group Dissertation Supervision is only possible if all students work on a single project (e.g. looking at different variables) together. 
+One of the biggest assumptions that we have come across is that Group Dissertation Supervision is only possible if all students work on the same project (e.g. looking at different variables). 
 
 However, this is not a requirement (and is not how we run our supervision!). In this chapter, we will cover different models to group supervision (including what we do), and why it can be beneficial to supervise dissertation students as a group, even if students are working on completely different projects. 
 
@@ -36,7 +36,7 @@ Each of us supervises both Undergraduate and Postgraduate Taught students. We us
 
 To provide some context, our Undergraduate supervision is for final year students who are on-campus, whereas our PGT supervision is for students who are completing their dissertation through Online Distance Learning (and are therefore based all over the world).
 
-In this book, we will mainly discuss how we supervise for final year undergraduate students, as we have found it difficult to schedule group supervision for Online Distance Learning students. Saying this, our supervision approaches are not specific to undergraduate students and would apply equally well to postgraduates. 
+In this book, we will mainly discuss how we supervise for final year undergraduate students, as we have found it difficult to schedule group supervision for Online Distance Learning students due to working commitments and differing time zones. Saying this, our supervision approaches are not specific to undergraduate students and apply equally well to postgraduates. 
 
 ::: {.callout-warning icon=false}
 
@@ -77,9 +77,8 @@ Holly holds group supervision sessions on a weekly basis. She splits this betwee
 
 ## Why Supervise Dissertations as a Group? 
 
-**ADD SOME GENERAL INFORMATION HERE, PERHAPS LINKING TO PAPERS**
+Historically, dissertations have been supervised one-on-one, in an 'expert' and 'apprentice' model (McCallin & Nayar, 2012). Group supervision can offer both peer and supervisor support, and can deepen learning by exposing students to varied theoretical and methodological perspectives (Nordentoft et al., 2013). **ADD SOME MORE BACKGROUND**
 
-Sometimes, one concern that staff have is that some groups are quieter than others. This one of the reasons that Ashley has [a clear theme and structure for each group session](https://ashleyerobertson.github.io/group_supervision/). It can often take a little time for quieter groups to warm up, especially when there are no pre-established relationships. Try not to worry if groups are a little quiet at the start - this is typical and usually eases up over time. It often gets to the point that formerly quiet group sessions suddenly run the risk of overrunning due to the amount of discussion! 
 
 ### Feedback from students  
 
@@ -99,7 +98,7 @@ Group meetings were "motivating", "inspiring" and "comforting"
 
 :::
 
-In general, students in our School report enjoying group supervision as it helps them to feel less isolated and they learn from their peers as well as their supervisor. It can also just be an enjoyable experience! 
+In general, students in our School report enjoying group supervision as it helps them to feel less isolated and they learn from their peers as well as their supervisor. It can also be an enjoyable experience! 
 
 
 ### Benefits for students
@@ -109,21 +108,31 @@ In our experience, group supervision has been beneficial for the students that w
 - Student wellbeing
   - In our School often the students won't know their peers within their dissertation group. Working together can give valuable alternative perspectives and help students to connect with each other. This can help to facilitate feelings of connectedness among the cohort. 
 - Support each other
-  - EXAMPLE/INFO
+  - **EXAMPLE/INFO**
 - Gain experience of how teams work
-  - EXAMPLE/INFO
+  - **EXAMPLE/INFO**
 - Develop transferable skills in collaboration
-  - EXAMPLE/INFO
+  - **EXAMPLE/INFO**
 
 ### Benefits for staff 
 
 There are also key benefits for staff in including group sessions within your supervision:
 
 - Manage workload efficiently
-  - EXAMPLE/INFO
+  - Seeing students as a group, either alongside individual sessions or solely as a group, can reduce required contact time, easing pinch points in workload. 
 - Group together common queries and concerns
-  - EXAMPLE/INFO
+  - There are often similar questions and concerns, or information that is common to all projects. Supervising as a group can allow you to maintain a consistent message about expectations, and reduce time spent sharing the same information.
 - Enjoy the group dynamic! 
-  - INFO
+  - It is often a pleasant experience to see students develop and grow over the course of their dissertation, and this is no different with group supervision. It is enjoyable to see students supporting and learning from each other throughout the year. 
 
- 
+## Challenges of Group Superivison
+
+It is also important to note that Group Supervision is not perfect and without any issues! [Nordentoft et al. (2013)](https://www.jstor.org/stable/23473513){target="_blank"} developed the Collective Academic Supervision model. In a subsequent paper [(Wichman-Hansen et al., 2015)](https://link.springer.com/article/10.1007/s10734-014-9821-2){target="_blank"}, the same team identified three main challenges with supervising students collectively:
+
+- supporting diverse groups of students to contribute equally
+- striking an optimal balance between passing on information and involving students in learning
+- determining how to support the growth of students' evaluative and analytical skills
+
+In our experience, some of these can be addressed by not requiring that students work together on shared projects (e.g. social loafing is less of an issue in individual projects, even if they are supervised as a group), and others can be addressed by planning interactive activities for the sessions that are focused on skill development. [Wichman-Hansen et al., (2015)](https://link.springer.com/article/10.1007/s10734-014-9821-2){target="_blank"} suggest that setting expectations are very important, although future research is needed in terms of supervisors' experiences of group supervision, as well as better understanding different ways of interacting in these contexts. 
+
+Sometimes, one concern that staff have is that some groups are quieter than others, and that group supervision can feel a bit 'flat' or require the supervisor to constantly facilitate discussion. This is one of the reasons that Ashley has [a clear theme and structure for each group session](https://ashleyerobertson.github.io/group_supervision/). It can often take a little time for quieter groups to warm up, especially when there are no pre-established relationships. Try not to worry if groups are a little quiet at the start - this usually eases up over time and formerly quiet groups will often suddenly have lots to discuss after a few weeks/months.

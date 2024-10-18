@@ -14,10 +14,10 @@ This resource can be used however you want! Please feel free to use the informat
 
 This book draws on what we’ve both learned about group supervision and provides some resources for you to try out.  
 
-In Appendix B [ADD LINK], you will also find a list of resources that might be useful for you in your supervision. 
+In [Appendix B](#appendix_b), you will also find a list of resources that might be useful for you in your supervision. 
 
 ## Further information
 
-If you have any questions at all, or would like us to deliver a workshop or talk in your department on Group Supervision for Dissertations please feel free to get in touch with [Ashley](mailto:ashley.robertson@glasgow.ac.uk) and [Holly](mailto:holly.scott@glasgow.ac.uk)
+If you have any questions at all, or would like us to deliver a workshop or talk in your department on Group Supervision for Dissertations please feel free to get in touch with [Ashley](mailto:ashley.robertson@glasgow.ac.uk){target="_blank"} and [Holly](mailto:holly.scott@glasgow.ac.uk){target="_blank"}
 
 

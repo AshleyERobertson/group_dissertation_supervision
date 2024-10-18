@@ -1,15 +1,15 @@
 # Overview {.unnumbered}
 
-Welcome to our book on Group Dissertation Supervision. Please feel free to use whatever you find useful, to pass on to others, and to adapt these resources to suit your own supervision style. 
+Welcome to our book on supervising dissertation projects in groups. Please feel free to use whatever you find useful, to pass on to others, and to adapt these resources to suit your own supervision style. 
 
-You can navigate to each of the chapters using the bar on the left hand side. Within each chapter, a breakdown of the main sections will be provided on the right hand side. 
+You can navigate to each of the chapters using the bar on the left hand side, or using the links below. Within each chapter, a breakdown of the main sections will be provided on the right hand side. 
 
 We have structured the book as follows:
 
 **Main Chapters**
 
 - Chapter 1: [About Us](#about_us)
-- Chapter 2: [Benefits of Group Supervision](#benefits)
+- Chapter 2: [Benefits (and challenges!) of Group Supervision](#benefits)
 - Chapter 3: [Getting Set up for the Year Ahead](#set_up)
 - Chapter 4: [Different Types of Group Supervision Sessions](#supervision_types)
 - Chapter 5: [Examples of Group Supervision Sessions](#supervision_examples)
