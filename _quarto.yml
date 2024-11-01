@@ -6,7 +6,7 @@ project:
 execute:
   freeze: auto
 book:
-  title: Group Dissertation Supervision
+  title: Group SupervisoR
   subtitle: ''
   author: Ashley Robertson & Holly Scott
   doi: ''
