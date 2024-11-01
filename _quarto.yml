@@ -12,9 +12,9 @@ book:
   doi: ''
   license: CC-BY
   description: This book covers dissertation supervision delivered in groups, for both undergraduate and postgraduate students.
-  cover-image: images/logos/logo.png
-  image: images/logos/logo.png
-  favicon: images/logos/logo.png
+  cover-image: images/logos/logo1.png
+  image: images/logos/logo1.png
+  favicon: images/logos/logo1.png
   cookie-consent: false
   google-analytics: ''
   page-navigation: true
