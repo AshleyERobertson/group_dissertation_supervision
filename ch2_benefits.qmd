@@ -12,15 +12,15 @@ There are many different models of dissertation and, indeed, many different mode
 
 Thinking specifically about group supervision, these include:
 
+- Collective Academic Supervision
+  - Students meet only as a group and undertake independent (but similar) projects, supervised by the same supervisor
+  - Example: [Dautel (2020)](https://doi.org/10.53841/bpsptr.2020.26.1.18){target="_blank"}
 - Consortium model
   - Consists of multiple groups of students across different Universities collaborating on one protocol and supervised by supervisor in their University
   - Example: [Button et al. (2020)](https://doi.org/10.1177/1475725719857659){target="_blank"} 
 - Apprentice-Based Senior Thesis
   - Students collaborate together in small groups on one protocol; supervised by a single supervisor
   - Example: [Mickey-Steinmetz & Reid (2019)](https://doi.org/10.3389/fpsyg.2019.00196){target="_blank"} 
-- Collective Academic Supervision
-  - Students meet only as a group and undertake independent (but similar) projects, supervised by the same supervisor
-  - Example: [Dautel (2020)](https://doi.org/10.53841/bpsptr.2020.26.1.18){target="_blank"}
 - Laddered Model
   - Students are separated into three-person teams, with each team consisting of three students with differing levels of expertise (one experienced, one mid-level and one new to the group)
   - Example: [Detweiler-Bedell & Detweiler-Bedell (2019)](https://doi.org/10.3389/fpsyg.2019.00133){target="_blank"}
@@ -38,7 +38,7 @@ To provide some context, our Undergraduate supervision is for final year student
 
 In this book, we will mainly discuss how we supervise for final year undergraduate students, as we have found it difficult to schedule group supervision for Online Distance Learning students due to working commitments and differing time zones. Saying this, our supervision approaches are not specific to undergraduate students and apply equally well to postgraduates. 
 
-::: {.callout-warning icon=false}
+::: {.callout-tip icon=false}
 
 ## Ashley's supervision model
 
@@ -56,7 +56,7 @@ Ashley holds a mixture of group and individual supervision, switching between th
 
 :::
 
-::: {.callout-warning icon=false}
+::: {.callout-tip icon=false}
 
 ## Holly's supervision model
 
@@ -77,14 +77,14 @@ Holly holds group supervision sessions on a weekly basis. She splits this betwee
 
 ## Why Supervise Dissertations as a Group? 
 
-Historically, dissertations have been supervised one-on-one, in an 'expert' and 'apprentice' model (McCallin & Nayar, 2012). Group supervision can offer both peer and supervisor support, and can deepen learning by exposing students to varied theoretical and methodological perspectives (Nordentoft et al., 2013). **ADD SOME MORE BACKGROUND**
+Historically, dissertations have been supervised one-on-one, in an 'expert' and 'apprentice' model (McCallin & Nayar, 2012). Group supervision can offer both peer and supervisor support, and can deepen learning by exposing students to varied theoretical and methodological perspectives (Nordentoft et al., 2013). Students can benefit from hearing varied points of view and being exposed to different research designs and topics. It can also be an efficient way to supervise (as there is no need to repeat information multiple times) and allows students to learn from the questions that they never thought to ask. 
 
 
 ### Feedback from students  
 
 Here is just some of the feedback that students who have been supervised through group supervision in our School have left about their experiences. 
 
-::: {.callout-note icon=false}
+::: {.callout-tip icon=false}
 
 ## Feedback from students
 
@@ -108,11 +108,11 @@ In our experience, group supervision has been beneficial for the students that w
 - Student wellbeing
   - In our School often the students won't know their peers within their dissertation group. Working together can give valuable alternative perspectives and help students to connect with each other. This can help to facilitate feelings of connectedness among the cohort. 
 - Support each other
-  - **EXAMPLE/INFO**
+  - Peer support can be a useful result of students becoming familiar with each other through group supervision. This might be led by supervisors (e.g. as in Holly's examples where students give feedback to each other) or can be organised by students themselves (e.g. Ashley's students met as a group to practice setting up an interview together). 
 - Gain experience of how teams work
-  - **EXAMPLE/INFO**
+  - Working together in a group setting can provide students with an opportunity to work on a longer project with others. It can expose students to diverse perspectives, to develop an understanding of different roles within a team and to learn to balance both individual and group responsibilities.
 - Develop transferable skills in collaboration
-  - **EXAMPLE/INFO**
+  - Working as part of a group enables students to develop key skills that are important for employers, such as communication skills, critical thinking, time management and negotiation.
 
 ### Benefits for staff 
 

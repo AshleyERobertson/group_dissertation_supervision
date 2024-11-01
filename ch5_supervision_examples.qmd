@@ -10,7 +10,7 @@ Lightning talks are short-form presentations (typically 5 minutes maximum) that 
 
 Here is how I explain the rationale behind this activity to my students: 
 
-::: {.callout-note appearance="simple" icon=false}
+::: {.callout-tip appearance="simple" icon=false}
 
 ## Example Rationale for Lightning Talks
 
@@ -55,7 +55,7 @@ While this example focuses on the Introduction and rationale, the same approach 
 
 Here is an example of explaining the rationale behind this activity to your students: 
 
-::: {.callout-note appearance="simple" icon=false}
+::: {.callout-tip appearance="simple" icon=false}
 
 ## Example Rationale for Outline of a Written Section
 
@@ -99,7 +99,7 @@ Dissertation students can engage in peer review of all sorts of materials: not o
 
 Here is an example of explaining the rationale behind this activity to your students: 
 
-::: {.callout-note appearance="simple" icon=false}
+::: {.callout-tip appearance="simple" icon=false}
 
 ## Example Rationale for Peer Review
 
@@ -142,7 +142,7 @@ To support this, my colleague and I developed some materials to support students
 
 Here is an example of explaining the rationale behind this activity to your students: 
 
-::: {.callout-note appearance="simple" icon=false}
+::: {.callout-tip appearance="simple" icon=false}
 
 ## Example Rationale for Evaluation of the Discussion
 
@@ -201,7 +201,7 @@ Although this is a very supportive experience, students can find presenting a bi
 
 ### Rationale to share with students 
 
-::: {.callout-note appearance="simple" icon=false}
+::: {.callout-tip appearance="simple" icon=false}
 
 ## Example Rationale for Conference presentation
 
