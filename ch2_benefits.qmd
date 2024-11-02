@@ -32,7 +32,7 @@ There will be other models of supervision used, especially across different disc
 
 ### Our models of supervision
 
-Each of us supervises both Undergraduate and Postgraduate Taught students. We use slightly different models of supervision to each other, although both are closest to the 'Collective Academic Supervision' model described by Creavel et al. (2023). 
+Each of us supervises both Undergraduate and Postgraduate Taught students. We use slightly different models of supervision to each other, although both are closest to the 'Collective Academic Supervision' model described by Creaven et al. (2023). 
 
 To provide some context, our Undergraduate supervision is for final year students who are on-campus, whereas our PGT supervision is for students who are completing their dissertation through Online Distance Learning (and are therefore based all over the world).
 
@@ -49,10 +49,10 @@ Ashley holds a mixture of group and individual supervision, switching between th
   - Resources are passed on to students: [full breakdown of each session across two semesters can be found here](https://ashleyerobertson.github.io/group_supervision/){target="_blank"}
   - Each session scheduled for around 1 hour, although the final session is longer
 - Individual supervision (e.g. Weeks 2, 4, 6 and so on)
-  - An example of ['Touching base' sessions](#supervision_types))
+  - An example of a ['Touching base' session](#supervision_types){target="_blank"}
   - Individual sessions are dedicated time for students to ask questions, discuss project-specific challenges/concerns and identify priorities for progress
   - Actions noted for future sessions
-  - Deadlines set using the 'joint deadlines document' (see [Chapter 3](#set_up))
+  - Deadlines set using the 'joint deadlines document' (see [Chapter 3](#set_up){target="_blank"})
 
 :::
 
@@ -66,15 +66,15 @@ Holly holds group supervision sessions on a weekly basis. She splits this betwee
   - Around three milestone sessions are held per semester, each consisting of collaborative activities
   - With larger groups (e.g. six or more), these are scheduled for around 1.5 hours each
   - Students are asked to complete activities in advance and during each milestone session
-  - Examples of activities covered in milestone sessions are in [Chapter 5](#supervision_examples)
-- Regular group supervision (or ['Touching Base' session](#supervision_types))
+  - Examples of activities covered in milestone sessions are in [Chapter 5](#supervision_examples){target="_blank"}
+- Regular group supervision (or ['Touching Base' session](#supervision_types){target="_blank"})
   - Held on a weekly basis, in the weeks that there is no milestone session
   - Opportunity to catch up on progress, ask questions and plan progress
   - Actions noted for future sessions
 
 :::
 
-
+ 
 ## Why Supervise Dissertations as a Group? 
 
 Historically, dissertations have been supervised one-on-one, in an 'expert' and 'apprentice' model (McCallin & Nayar, 2012). Group supervision can offer both peer and supervisor support, and can deepen learning by exposing students to varied theoretical and methodological perspectives (Nordentoft et al., 2013). Students can benefit from hearing varied points of view and being exposed to different research designs and topics. It can also be an efficient way to supervise (as there is no need to repeat information multiple times) and allows students to learn from the questions that they never thought to ask. 
@@ -127,12 +127,12 @@ There are also key benefits for staff in including group sessions within your su
 
 ## Challenges of Group Superivison
 
-It is also important to note that Group Supervision is not perfect and without any issues! [Nordentoft et al. (2013)](https://www.jstor.org/stable/23473513){target="_blank"} developed the Collective Academic Supervision model. In a subsequent paper [(Wichman-Hansen et al., 2015)](https://link.springer.com/article/10.1007/s10734-014-9821-2){target="_blank"}, the same team identified three main challenges with supervising students collectively:
+It is also important to note that Group Supervision is not perfect and without any issues! [Nordentoft et al. (2013)](https://www.jstor.org/stable/23473513){target="_blank"} developed the Collective Academic Supervision model. In a subsequent paper, the same team identified three main challenges with supervising students collectively [(Wichman-Hansen et al., 2015)](https://link.springer.com/article/10.1007/s10734-014-9821-2){target="_blank"}:
 
 - supporting diverse groups of students to contribute equally
 - striking an optimal balance between passing on information and involving students in learning
 - determining how to support the growth of students' evaluative and analytical skills
 
-In our experience, some of these can be addressed by not requiring that students work together on shared projects (e.g. social loafing is less of an issue in individual projects, even if they are supervised as a group), and others can be addressed by planning interactive activities for the sessions that are focused on skill development. [Wichman-Hansen et al., (2015)](https://link.springer.com/article/10.1007/s10734-014-9821-2){target="_blank"} suggest that setting expectations are very important, although future research is needed in terms of supervisors' experiences of group supervision, as well as better understanding different ways of interacting in these contexts. 
+In our experience, some of these can be addressed by not requiring that students work together on shared projects (e.g. social loafing is less of an issue in individual projects, even if students are supervised as a group), and others can be addressed by planning interactive activities for the sessions that are focused on skill development. [Wichman-Hansen et al., (2015)](https://link.springer.com/article/10.1007/s10734-014-9821-2){target="_blank"} suggest that setting expectations are very important, although future research is needed in terms of supervisors' experiences of group supervision, as well as better understanding different ways of interacting in these contexts. 
 
-Sometimes, one concern that staff have is that some groups are quieter than others, and that group supervision can feel a bit 'flat' or require the supervisor to constantly facilitate discussion. This is one of the reasons that Ashley has [a clear theme and structure for each group session](https://ashleyerobertson.github.io/group_supervision/). It can often take a little time for quieter groups to warm up, especially when there are no pre-established relationships. Try not to worry if groups are a little quiet at the start - this usually eases up over time and formerly quiet groups will often suddenly have lots to discuss after a few weeks/months.
+Sometimes, one concern that staff have is that some groups are quieter than others, and that group supervision can feel a bit 'flat' or require the supervisor to constantly facilitate discussion. This is one of the reasons that Ashley has [a clear theme and structure for each group session](https://ashleyerobertson.github.io/group_supervision/){target="_blank"}. It can often take a little time for quieter groups to warm up, especially when there are no pre-established relationships. Try not to worry if groups are a little quiet at the start - this usually eases up over time and formerly quiet groups will often suddenly have lots to discuss after a few weeks/months.

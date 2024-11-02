@@ -1,6 +1,6 @@
 # List of all resources {#appendix_b}
 
-In this chapter, I've included all resources that are included in the book. They are split by theme, as hopefully this makes it easier to identify which resource/s you might want to access.
+In this chapter, I've included all resources that are included in the book. They are split by theme, as hopefully this makes it easier to identify which resource/s you might want to access. 
 
 ## Developing a research question
 

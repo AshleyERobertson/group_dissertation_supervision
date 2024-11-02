@@ -4,12 +4,42 @@ It can be useful to set up a few things in advance of starting supervision, as i
 
 ## Transparency and communication  
 
- 
+In our supervision, we've found that it can be particularly helpful to be transparent with students about why we include certain tasks as part of supervision (e.g. peer review, practice talks) or what they can expect during the process of conducting their dissertation. 
+
+This can be beneficial in multiple ways:
+- Setting expectations and being clear about what supervision will look like can be particularly helpful for students experiencing anxiety or those who are neurodivergent. Being clear and upfront in advance, without students asking for it, can help students know what to expect
+- Being transparent and open can help to establish trust as part of the supervisory relationship, which can make students more likely to open up if they are experiencing difficulties
+- Communicating expectations can help promote accountability and support students to track their progress over a longer piece of work
+
+As well as being transparent about what supervision entails, we find it is also important to be open about times that we have experienced challenges. For example, Ashley will tell students about times that she has found something difficult, or ways in which she struggled as a student, in an effort to normalise the experience of writing a dissertation (which can be daunting!). 
+
+**HOLLY, WOULD THIS (LAST SENTENCE ABOVE) ALSO WORK FOR YOU OR DO YOU HAVE ANYTHING DIFFERENT I COULD PUT DOWN?**
+
 ## Practical resources 
 
- 
+To support our supervision, we've developed some practical resources that are linked below. Please feel free to adapt any of these and use them however might be useful for you. 
+
 ### Setting expectations document 
 
+The purpose of the ['setting expectations' document](#appendix_a){target="_blank"} is to explicitly detail the supervision process for both students. They have been well-received, but the students (so far!) who have seem to find it most useful are a) international students and b) neurodivergent students. 
+
+This document gives students an overview of: 
+
+- expectations (both of students and of the supervisor)
+- structure and topics covered in supervision sessions
+- setting deadlines and how these will be managed
+- how we will communicate (e.g. teams/email)
+- feedback
+  - when feedback can be expected
+  - what feedback will look like
+  - how to ask for specific feedback
+- peer review
+- future aspirations
+
+It can be presented in whichever format works best for you. It is included in [Appendix A](#appendix_a){target="_blank"} and there are also sway versions that can be duplicated and edited to suit:
+
+- [Undergraduate final year sway](https://sway.cloud.microsoft/QTCoK14sojeLoUd3?ref=Link){target="_blank"}
+- [Online Distance learning PGT sway](https://sway.cloud.microsoft/Pb5M1b1TEdgxdquK?ref=Link){target="_blank"}
 
 ### Shared file structure (e.g. on Teams/OneDrive) 
 
@@ -19,3 +49,13 @@ It can be useful to set up a few things in advance of starting supervision, as i
 
 ### Joint deadlines document 
 
+Ashley uses a deadline document for each cohort of supervisees. This details deadlines (these tend to be soft deadlines, but others might decide to do hard deadlines) and also notes when each draft was received and when feedback was returned.
+
+It can help keep on top of a) where each student is in the process, b) the order in which sections are received, and c) allows students to know where their draft is in the ‘queue’. Students are able to view the spreadsheet but they are not able to edit it, meaning they can’t change a deadline without discussion.
+
+Ashley finds it helps students to be accountable for when they plan to submit drafts. It also helps to reduce unrealistic expectations in terms of return times. It is important to be flexible and be clear with students that the aim is to support them, rather than to constrain them unnecessarily.
+
+Examples of deadline documents:
+
+- [Undergraduate final year deadline document](https://gla-my.sharepoint.com/:x:/g/personal/ashley_robertson_glasgow_ac_uk/EXzNumo-70BAlD-TFQMbF1oB4Mjl-yjOw359GmbMrqGuZQ?e=15cMQe){target="_blank"}
+- [Online Distance learning PGT deadline document](https://gla-my.sharepoint.com/:x:/g/personal/ashley_robertson_glasgow_ac_uk/EdI6pqRBI15LqAZ29mIrUOgBWyM9pXitlcvTJ9WvmRtRlg?e=rpwk58){target="_blank"}
