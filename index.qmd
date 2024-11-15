@@ -19,4 +19,9 @@ We have structured the book as follows:
 **Appendices**
 
 - Appendix A: [Setting Expectations](#appendix_a)
-- Appendix B: [List of Resources](#appendix_b) **MAY OR MAY NOT INCLUDE: FROM OTHER RESOURCE** 
+- Appendix B: [List of Resources](#appendix_b) 
+
+
+### Partner Book
+
+There is an accompanying group supervision resource, developed by Ashley, on [Structured Sessions in Group Supervision](https://ashleyerobertson.github.io/group_supervision/)
