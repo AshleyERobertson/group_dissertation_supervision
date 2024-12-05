@@ -4,16 +4,15 @@ It can be useful to set up a few things in advance of starting supervision, as i
 
 ## Transparency and communication  
 
-In our supervision, we've found that it can be particularly helpful to be transparent with students about why we include certain tasks as part of supervision (e.g. peer review, practice talks) or what they can expect during the process of conducting their dissertation. 
+In our supervision, we've found that it can be particularly helpful to be transparent with students about why we include certain tasks as part of supervision (e.g. peer review, practice talks). You’ll see that for each of our examples of group supervision sessions in [Chapter 5](#supervision_examples), we provide a rationale to share with students for this reason.  This transparency also applies to getting set up for the year, so that students know in advance what they can expect during the process of conducting their dissertation.
 
 This can be beneficial in multiple ways:
 - Setting expectations and being clear about what supervision will look like can be particularly helpful for students experiencing anxiety or those who are neurodivergent. Being clear and upfront in advance, without students asking for it, can help students know what to expect
 - Being transparent and open can help to establish trust as part of the supervisory relationship, which can make students more likely to open up if they are experiencing difficulties
 - Communicating expectations can help promote accountability and support students to track their progress over a longer piece of work
 
-As well as being transparent about what supervision entails, we find it is also important to be open about times that we have experienced challenges. For example, Ashley will tell students about times that she has found something difficult, or ways in which she struggled as a student, in an effort to normalise the experience of writing a dissertation (which can be daunting!). 
+As well as being transparent about what supervision entails, we find it is also important to be open about times that we have experienced challenges. For example, we both tell students about times that we have found something difficult, or ways in which we struggled as students, in an effort to normalise the experience of writing a dissertation (which can be daunting!). 
 
-**HOLLY, WOULD THIS (LAST SENTENCE ABOVE) ALSO WORK FOR YOU OR DO YOU HAVE ANYTHING DIFFERENT I COULD PUT DOWN?**
 
 ## Practical resources 
 
@@ -43,9 +42,29 @@ It can be presented in whichever format works best for you. It is included in [A
 
 ### Shared file structure (e.g. on Teams/OneDrive) 
 
+As part of getting set up for the year, it is helpful to create a shared file structure - for example on Teams or OneDrive - where you and your students can share resources, drafts and feedback. For example, you might create empty folders that look something like: 
+
+1. Proposals & Ethics 
+  a. Student A 
+  b. Student B 
+  c. Student C 
+  d. Student D 
+
+2. Introductions 
+  a. Student A 
+  b. Student B 
+  c. Student C 
+  d. Student D 
+
+... and so on. 
+
+Linking to the ideas of openness and transparency noted above, Holly tends to grant access to all folders for all students in her group. This is useful to facilitate activities like peer review, feedback and discussion. For example, after each student reviews a peer’s Introduction draft, they then lead a feedback discussion with input from Holly, which opens into a broader discussion with the whole group. Let's say a peer reviewer has noted that the logical flow between paragraphs could be smoother in places: we discuss how to achieve this and then Holly can point to a student’s work which did this effectively, and ask if they are happy for their peer to have a look. 
+
+Holly’s students have fed back that this is helpful and motivating to see how the group are progressing and to get peer support like this. However, it is important to be mindful of cases where this completely open file structure may be less helpful for certain students. For example, if one student has faced significant delays or challenging circumstances, you may judge that it is better to create private folders for each student to avoid unhelpful and demotivating social comparisons. 
 
 ### Shared OneNote 
 
+Holly also links to a shared OneNote notebook from her group’s Teams channel. This creates a collaborative space where students can share notes on literature they find; outlines of e.g. their Introduction plan to discuss with the group; and a weekly progress log. This log invites students to keep a note each week of what they have been working on, what questions they have, and what their goal is for the coming week. This can help keep students focused and motivated, and also helps the supervisor to keep track of what multiple different students are working on. 
 
 ### Joint deadlines document 
 

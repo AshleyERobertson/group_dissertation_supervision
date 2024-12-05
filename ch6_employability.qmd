@@ -1,4 +1,51 @@
 # Employability and Transferable Skills {#employability}
 
-Add in details here
- 
+One important aspect of supervising dissertations is to prepare students for their next steps post-graduation. Rather than the specific topic of the dissertation, in general employers and postgraduate admissions teams are looking for the transferable skills that students have developed through this experience. Group supervision can offer opportunities for students to develop transferable skills that can be more challenging to achieve in traditional one-to-one sessions, for example in teamwork, collaboration and leadership. These skills are amongst the top requested skills in job adverts [(Bennet, 2002)](https://doi.org/10.1080/13636820200200209){target="_blank"}. 
+
+Often, while we as supervisors can appreciate the range of transferable skills our students have developed by graduation, they themselves can find it harder to recognise and articulate these skills. To tackle this gap, we can provide support for students to reflect on their skill development throughout the dissertation. Students can then look back on their reflective skills log to help articulate and evidence transferable skills in applications and interviews [(McCallum & Casey, 2017)](https://journals.le.ac.uk/index.php/new-directions/article/view/2368/2299){target="_blank"}.  
+
+As always, it is important to clearly articulate the rationale for asking students to engage in this task. For example: 
+
+::: {.callout-tip appearance="simple" icon=false}
+
+“At certain key stages in the dissertation, I will be sharing some prompts for you to reflect on and record. Some benefits you will get from engaging in this type of reflection about your learning and skill development journey include: 
+
+Developing critical thinking skills and meta-cognition, which help you to do well both on your course and in future work settings 
+
+Creating a log of your skills journey while carrying out a significant piece of independent research, so you can look back and see how far you have come 
+
+Identifying how particular activities have developed skills that you can clearly communicate in future job/course applications and interviews 
+
+To help with this final point of articulating which skills you have demonstrated at different stages of the dissertation project, I'll be asking you to consider how specific activities, experiences and skills relate to your transferable skills. You may find it helpful to refer to the University's [Graduate Attributes framework](https://www.gla.ac.uk/media/Media_183776_smxx.pdf){target="_blank"}, which summarises the key qualities and transferable skills that you develop during your time at university and that you can communicate to potential employers / postgraduate programme leads.” 
+
+:::
+
+This type of reflective practice may feel alien to students at first. However, rather than being an innate quality, the ability to critically reflect can be learned given appropriate support, e.g. in the form of scaffolding [(Coulson & Harvey, 2013)](https://www.tandfonline.com/doi/abs/10.1080/13562517.2012.752726){target="_blank"}. For example, Holly provides the following prompts after each milestone collaborative activity (see Chapter 5): 
+
+::: {.callout-tip appearance="simple" icon=false}
+
+“Thinking about the experience of [preparing and delivering your Lightning Talk, including discussing any questions and feedback] ... 
+
+How did you feel about this task? (You may wish to think about when you first took it on vs. after you had completed it.) 
+
+What did you find challenging and why? 
+
+What transferable skills/Graduate Attributes do you feel you developed or enhanced through this experience? 
+
+How would you use your [Lightning Talk] experience as evidence of these skills for e.g. an application?” 
+
+:::
+
+The collaborative activities can push students outside of their comfort zone, for example by tackling nerves in public speaking or taking on the role of reviewer, for which students often feel underqualified [(Mulder et al., 2014)](https://doi.org/10.1080/02602938.2013.860421){target="_blank"}. Therefore, inviting them to reflect on how they felt about the task before and after completing it can help them to build confidence in their abilities and supports a growth mindset, in which students believe that intellectual ability can be developed [(Yeager & Dweck, 2020)](https://psycnet.apa.org/doi/10.1037/amp0000794){target="_blank"}. For example, one student reflected on their increase in confidence after the Lightning Talk: 
+
+**“When I first found out about the task I was a little apprehensive as I had not had an opportunity to do a presentation since school [...] When it came to be my turn, I was a little nervous [...] Afterwards, I felt proud of myself for being able to do it”**
+
+Reflecting on the challenges of this task, they continued that: 
+
+**“I found it quite challenging to be concise [...] so I had to really consider what were the most important parts”**
+
+This reflection then supported them to articulate the graduate attributes they had demonstrated through this particular activity, for example: 
+
+**“I enhanced my skills in being a *critical thinker* as I had to be critical and evaluate what information was the most relevant to include in my presentation. [...] I became an *effective communicator* as I had to articulate my rationale and study in an understandable way for people who had not read the research"**
+
+By supporting dissertation students to keep this type of reflective skills log, we can build their confidence and help them establish a catalogue of evidence that they can draw on to provide concrete and specific examples that evidence their skills in applications and interviews. This approach pairs well with group supervision, which offers unique opportunities for students to enhance their communication, teamwork and interpersonal skills. 
