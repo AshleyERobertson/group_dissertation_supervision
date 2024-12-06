@@ -1,6 +1,8 @@
 # List of all resources {#appendix_b}
 
-In this chapter, I've included all resources that are included in the book. They are split by theme, as hopefully this makes it easier to identify which resource/s you might want to access. 
+In this chapter, we've included a variety of resources that Ashley has collated over a few years and might be useful for your supervision. They are split by theme, as hopefully this makes it easier to identify which (if any) resource/s you might want to access.
+
+Some of the resources are ones made up by Ashley (e.g. suggestions on writing) and 
 
 ## Developing a research question
 
@@ -10,29 +12,25 @@ In this chapter, I've included all resources that are included in the book. They
 
 ## Ethics
 
-**Specific to Psychology, School of Psychology & Neuroscience**: The Moodle (Level 4, PGT) has a folder with templates and exemplars for ethics that should be used
-
-Guidance from Dr Emily Nordmann on [extended debriefs for Level 1 students](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EUSN-v4byCtGut-nlQeYqQQBwg8oTSElTx0NbAe98SZ_tw?e=2YZNvP) and [how to recruit on SONA](https://sway.cloud.microsoft/7OlDu5WmOmFjqDki?ref=Link&loc=play)
+Guidance from Dr Emily Nordmann on [extended debriefs for Level 1 students](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EUSN-v4byCtGut-nlQeYqQQBwg8oTSElTx0NbAe98SZ_tw?e=2YZNvP)
 
 [Guidance on SONA](https://gla-my.sharepoint.com/:b:/g/personal/ashley_robertson_glasgow_ac_uk/EaSibUgmSh1IpgvFOpf3kBoBH7fD4NiT29yNVP0fvblWYA?e=ZtuuEg)
 
 ## Summarising a paper
 
-[My suggestions](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EeJ0BD6jBxpPqnh4Qdfsu-sB6QIS0hng8LFe1AMx9AP_ow?e=hJLrOP) on summarising papers
+[Ashley's suggestions](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EeJ0BD6jBxpPqnh4Qdfsu-sB6QIS0hng8LFe1AMx9AP_ow?e=hJLrOP) on summarising papers
 
 [Teach Science.org notes on how to take notes on a research paper](https://teachpsychscience.org/index.php/a-guide-and-template-for-taking-notes-on-research/815/communicating-science/)
 
 ## Writing a bullet point intro
 
-[My suggestions](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQXjzrHXEi5Fn_j_vqSYMk8BPqPqgMzNwBoPSZSvuvMd5w?e=k7i4GS) on writing a bullet point intro
+[Ashley's suggestions](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQXjzrHXEi5Fn_j_vqSYMk8BPqPqgMzNwBoPSZSvuvMd5w?e=k7i4GS) on writing a bullet point intro
 
 ## Developing a rationale
 
-[Wil's resource](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EXHOBRvN14dLoThMX6zBEd0B7dxgXh3t7zcUhc5H7CSOjw?e=HeDnPs) on developing a rationale
+[Wil Toivo's resource](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EXHOBRvN14dLoThMX6zBEd0B7dxgXh3t7zcUhc5H7CSOjw?e=HeDnPs) on developing a rationale
 
 ## Analysis in Quantitative Research
-
-[Activity 2 from Lab 9 in RM2](https://wtoivo.github.io/RM2-F2F-quali-book/labs.html#lab-9-activity-2-going-deeper-in-your-analysis)
 
 [Level 1 data skills](https://psyteachr.github.io/data-skills-v2/)
 
@@ -46,15 +44,15 @@ Guidance from Dr Emily Nordmann on [extended debriefs for Level 1 students](http
 
 ## Analysis in Qualitative Research
 
+[Activity 2 from Lab 9 in RM2](https://wtoivo.github.io/RM2-F2F-quali-book/labs.html#lab-9-activity-2-going-deeper-in-your-analysis)
+
 [MSc Conv (RM2)](https://wtoivo.github.io/RM2-F2F-quali-book/index.html)
 
 [MSc Conv ODL (RM2 ODL)](https://wtoivo.github.io/RM2-ODL-quali-book/index.html)
 
-[Activity 2 from Lab 9 in RM2](https://wtoivo.github.io/RM2-F2F-quali-book/labs.html#lab-9-activity-2-going-deeper-in-your-analysis)
-
 ## General writing advice
 
-[My suggestions](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EbwPxiMzqMBDqJ0cEwkwLhoBqpcaSxzpf3K-VG1YePhHSg?e=cpfho9) on writing a dissertation
+[Ashley's suggestions](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EbwPxiMzqMBDqJ0cEwkwLhoBqpcaSxzpf3K-VG1YePhHSg?e=cpfho9) on writing a dissertation
 
 [General writing tips for quantitative research](https://bartlettje.github.io/RM1_Resources/Resources.html) (from the RM1 team): (Chapters 17-25)
 
@@ -66,7 +64,7 @@ Guidance from Dr Emily Nordmann on [extended debriefs for Level 1 students](http
 
 [Reverse outlines](https://explorationsofstyle.com/2011/02/09/reverse-outlines/)
 
-## Perfection paralysis
+## Perfection paralysis 
 
 [Perfection Paralysis resource from Hidden Cirriculum](https://hiddencurriculum.ca/wp-content/uploads/articulate_uploads/perfection-paralysis/index.html#/lessons/hAZjtzG_2XP4B6Quwveg8YvAI2zRrlqi)
 
@@ -88,7 +86,7 @@ Staff version of the RM2 lab slides on [Developing Evaluation in Discussions](ht
 
 ## Using and applying feedback
 
-[Guidance on the type of feedback I tend to give for dissertations](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/Ead4D1hp_7FOi4TlUVQA_O4B9dZcvARaCYuyIWtw3uO0MA?e=K2rR0W) **Please note, this talks through how I give feedback, so may be different to how you would give feedback on drafts**
+[Guidance on the type of feedback I tend to give for dissertations](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/Ead4D1hp_7FOi4TlUVQA_O4B9dZcvARaCYuyIWtw3uO0MA?e=K2rR0W) **Please note, this talks through how Ashley gives feedback, so may be different to how you would give feedback on drafts**
 
 [Useful resources on feedback](https://moodle.gla.ac.uk/course/view.php?id=4529&section=5) in the Psychology & Neuroscience General Information moodle, including a [Feedback and Study Guide](https://moodle.gla.ac.uk/mod/book/view.php?id=1076576). **School of Psychology & Neuroscience only**
 

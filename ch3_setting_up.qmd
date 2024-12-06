@@ -20,7 +20,7 @@ To support our supervision, we've developed some practical resources that are li
 
 ### Setting expectations document 
 
-The purpose of the ['setting expectations' document](#appendix_a){target="_blank"} is to explicitly detail the supervision process for both students. They have been well-received, but the students (so far!) who have seem to find it most useful are a) international students and b) neurodivergent students. 
+The purpose of the ['setting expectations' document](#appendix_a) is to explicitly detail the supervision process for both students. They have been well-received, but the students (so far!) who have seem to find it most useful are a) international students and b) neurodivergent students. 
 
 This document gives students an overview of: 
 
