@@ -6,24 +6,14 @@ You can navigate to each of the chapters using the bar on the left hand side, or
 
 We have structured the book as follows:
 
-**Main Chapters**
-
 - Chapter 1: [About Us](#about_us)
 - Chapter 2: [Benefits (and challenges!) of Group Supervision](#benefits)
 - Chapter 3: [Getting Set up for the Year Ahead](#set_up)
-- Chapter 4: [Different Types of Group Supervision Sessions](#supervision_types)
+- Chapter 4: [Different Types of Supervision Sessions](#supervision_types)
 - Chapter 5: [Examples of Group Supervision Sessions](#supervision_examples)
 - Chapter 6: [Employability and Transferable Skills](#employability)
 - Chapter 7: [Finding What Works for You](#what_works)
 
-**Appendices**
-
-We include two appendices in this book. Appendix A is a document to support setting expectations and is discussed in [Chapter 3](#set_up). Appendix B is a list of resources collated by Ashley that may be useful when supervising a group.
-
-- Appendix A: [Setting Expectations](#appendix_a)
-- Appendix B: [List of Resources](#appendix_b)
-
-
 ### Partner Book
 
-There is an accompanying group supervision resource, developed by Ashley, on [Structured Sessions in Group Supervision](https://ashleyerobertson.github.io/group_supervision/){target="_blank"}
+There is an accompanying group supervision resource, developed by Ashley, on [Structured Sessions in Group Supervision](https://ashleyerobertson.github.io/group_supervision/){target="_blank"}. It also contains a document to support setting expectations with dissertation students, [Appendix A](https://ashleyerobertson.github.io/group_supervision/appendix_a.html){target="_blank"}, which is discussed in [Chapter 3](#set_up).

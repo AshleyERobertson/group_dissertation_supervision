@@ -21,7 +21,6 @@ book:
   search: true
   downloads:
   - pdf
-  - epub
   sharing:
   - twitter
   - facebook
@@ -41,7 +40,7 @@ book:
     header: ''
     footer: ''
   margin-header: ''
-  page-footer: CC-BY (2024) Ashley Robertson and Holly Scott
+  page-footer: CC-BY (2024) Ashley Robertson and Holly Neill
   chapters:
   - index.qmd
   - ch1_about_us.qmd
@@ -51,8 +50,6 @@ book:
   - ch5_supervision_examples.qmd
   - ch6_employability.qmd
   - ch7_what_works.qmd
-  appendices:
-  - appendix_a.qmd
 bibliography: include/references.bib
 csl: include/apa.csl
 format:
@@ -82,3 +79,12 @@ format:
     include-after-body:
     - include/webex.js
     - include/script.js
+
+  pdf:
+    include-in-header:
+      text: |
+        \usepackage[most]{tcolorbox}
+        \newtcolorbox{info}{
+          breakable,
+          title=Info
+        }

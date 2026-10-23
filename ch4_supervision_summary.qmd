@@ -1,4 +1,4 @@
-# Different types of Supervision Sessions {#supervision_types}
+# Different Types of Supervision Sessions {#supervision_types}
 
 We both split our supervision into two types of sessions: unstructured or ‘touching base’ sessions and structured sessions.  
 
@@ -32,4 +32,4 @@ These types of sessions are mainly about catching up and seeing how the projects
 
 In the next Chapter, we will share some worked examples of the types of activities we use in our structured sessions. For each, we’ll share example text of communicating the activity rationale to students, an accompanying resource for students, and some of our tips for supervisors on how to run each group session. Feel free to use any of these as they are, adapt them to the needs of your students, or perhaps the examples will inspire some of your own new ideas! 
 
-Before we made this joint resource, Ashley also developed a separate book detailing each structured session that she runs, with an overview of what’s covered for each one, along with links to resources. If you would like to take a bit of a ‘deep dive’ into how these sessions might be structured, you are very welcome to access this too. You can find this in [Structured Supervision Sessions for Group Supervision](https://ashleyerobertson.github.io/group_supervision/){target="_blank"}.  
+Before we made this joint resource, Ashley also developed a separate book detailing each structured session that she runs, with an overview of what’s covered for each one, along with links to resources. If you would like to take a bit of a ‘deep dive’ into how these sessions might be structured, you are very welcome to access this too. You can find this in [Structured Sessions in Group Supervision](https://ashleyerobertson.github.io/group_supervision/){target="_blank"}.  
