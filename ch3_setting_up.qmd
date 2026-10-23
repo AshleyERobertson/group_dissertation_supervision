@@ -83,15 +83,17 @@ Ashley's approach is closer to the private-folder option described above. She cr
 
 Students use their folder for the work they want feedback on, and keep their data and analysis files there throughout, so that Ashley has access to everything related to the dissertation. Other versions of their work can be kept elsewhere. Students are asked to upload to the folder themselves. If something is sent another way or forgotten, Ashley adds a copy to the folder when she receives it, so that the folder is always a complete record. The folders do not send alerts, so students message Ashley on Teams when something has been added. Feedback is returned as in-text comments with a short global summary, and the order in which drafts are reviewed is tracked in the [joint deadlines document](#joint-deadlines-document).
 
-Each folder has an expiry date set around graduation. At that point the student loses access, but nothing is deleted and Ashley retains it. When the folders were introduced in 2026-27, students tested each other's links in a group session to confirm that they were private.
+Each folder has an expiry date set around graduation. At that point the student loses access, but nothing is deleted and Ashley retains it.
 
 Ashley introduced individual folders for two reasons. First, some students feel their work must be polished before anyone else sees it, and a private folder means a draft can reach the supervisor at whatever stage it is in, which is intended to lower the barrier to sharing work in progress. Second, the supervisor needs access to everything related to the dissertation, including data, without relying on students to send it. This approach is new for 2026-27 and has not yet been evaluated.
 
-Sharing with the group is selective and builds over the year. Students are encouraged to start with low-stakes items such as bullet-point introductions, move on to initial analyses, and later share the slides for their final project. They can also peer review each other's Discussion sections if they wish. The student-facing description of this process is in Appendix A of [Structured Sessions in Group Supervision](https://ashleyerobertson.github.io/group_supervision/appendix_a.html){target="_blank"}.
+Sharing with the wider group is selective and builds over the year. Students are encouraged to start with low-stakes items such as bullet-point introductions, move on to summaries of their analyses, and later share the slides for their final presentation They can also peer review each other's Discussion sections if they wish. The student-facing description of this process is in Appendix A of [Structured Sessions in Group Supervision](https://ashleyerobertson.github.io/group_supervision/appendix_a.html){target="_blank"}.
 
 **Choosing between the two**
 
-The two approaches rest on different assumptions. An open structure assumes that seeing peers' work is motivating and helps to normalise drafts that are still rough. Individual folders assume that, for some students, being visible to peers is itself the barrier, and that sharing selectively is an easier place to start. Neither assumption has been tested here. The choice is likely to depend on the group: how well students know each other, how confident they are, and whether anyone is struggling with progress or circumstances.
+The two approaches rest on different assumptions. An open structure assumes that seeing peers' work is motivating and helps to normalise drafts that are still rough. Individual folders assume that, for some students, being visible to peers is a barrier, and that sharing selectively is an easier place to start. 
+
+The approach that a supervisor takes is likely to depend on the group: how well students know each other, how confident they are, and whether anyone is struggling with progress or circumstances.
 
 ### Shared OneNote
 
@@ -107,5 +109,5 @@ Ashley finds it helps students to be accountable for when they plan to submit dr
 
 Examples of deadline documents:
 
-- [Undergraduate final year deadline document](https://gla-my.sharepoint.com/:x:/g/personal/ashley_robertson_glasgow_ac_uk/EXzNumo-70BAlD-TFQMbF1oB4Mjl-yjOw359GmbMrqGuZQ?e=15cMQe){target="_blank"}
-- [Online Distance learning PGT deadline document](https://gla-my.sharepoint.com/:x:/g/personal/ashley_robertson_glasgow_ac_uk/EdI6pqRBI15LqAZ29mIrUOgBWyM9pXitlcvTJ9WvmRtRlg?e=rpwk58){target="_blank"}
+- [Undergraduate final year deadline document](https://github.com/AshleyERobertson/group_dissertation_supervision/releases/download/resources-v1/Example_UG_TrackingDrafts.xlsx){target="_blank"}
+- [Online Distance learning PGT deadline document](https://github.com/AshleyERobertson/group_dissertation_supervision/releases/download/resources-v1/Example_PGT_ODL_TrackingDrafts.xlsx){target="_blank"}

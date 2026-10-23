@@ -77,7 +77,6 @@ I have shared an example bullet point outline for the Introduction of one of my 
 
 I share a one-page resource with students on outlining an Introduction argument. Following the group meeting, I also share an Introduction progress tracker, where they can insert each key argument/paragraph and log their progress on e.g. gathering literature to support it, making notes, drafting and redrafting. Students have found this helpful to get over the daunting blank page when they begin drafting, as they can break the task down into manageable chunks. 
 
-These two resources are no longer available to link to, but the descriptions here and in the rationale above should be enough to create your own versions, and you are welcome to adapt the idea to suit your own students. 
 
 ### Running the group meeting 
 
@@ -161,15 +160,13 @@ I have shared three ‘not so good’ excerpts from a Discussion section. For ea
 
 ### Accompanying resource 
 
-Here is a [copy of the excerpts we use for the Discussion evaluation activity](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EZnXNcupuYpPvtTctLIQHP4BPpKRakEyzQjnrhInkfOSHg?e=Sk2bCi){target="_blank"}. 
+Here is a [copy of the excerpts we use for the Discussion evaluation activity](https://github.com/AshleyERobertson/group_dissertation_supervision/releases/download/resources-v1/DiscussionEvaluation.docx){target="_blank"}. This contains both notes for staff as well as the activity itself.
 
 There are three particular aspects of Discussion sections that we are looking at in this activity:  
 
 - Excerpt 1: Linking findings to the evidence base 
 - Excerpt 2: Limitations 
 - Excerpt 3: Implications 
-
-We have developed some [notes for staff](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ERJe-GFNvg9GlKjPGDFmjL0BftYJBXBcvzw8U9ofZ1XH-Q?e=dnLOfb){target="_blank"} running this activity, with some of the strengths/limitations for each of the excerpts. 
 
 Please feel free to adapt the activities or the notes in a way that works for you in your own supervision. 
 
@@ -221,7 +218,7 @@ In preparation, please let me know in advance which type of talk or other contri
 
 ### Accompanying resource 
 
-In a previous group session, I will have shared some of my [tips on presenting](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQh-1I7HCsBGkpcK6WmxPUUB_7JmqoRw1LINLhLWATig6w?e=JLiVho){target="_blank"}, as well as some suggestions from [Portsmouth University](https://myport.port.ac.uk/study-skills/speaking-skills-and-presentations){target="_blank"}. I share these again with the students in advance of the group session. 
+In a previous group session, I will have shared some of my [tips on presenting](https://github.com/AshleyERobertson/group_dissertation_supervision/releases/download/resources-v1/PresentationTips.docx){target="_blank"}. I share these again with the students in advance of the group session. 
 
 ### Running the group meeting 
 
