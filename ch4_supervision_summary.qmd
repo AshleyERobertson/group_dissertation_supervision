@@ -1,4 +1,4 @@
-# Different Types of Supervision Sessions {#supervision_types}
+# Different Types of Supervision Sessions {#supervision_types} 
 
 We both split our supervision into two types of sessions: unstructured or ‘touching base’ sessions and structured sessions.  
 

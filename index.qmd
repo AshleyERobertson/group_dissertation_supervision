@@ -12,7 +12,7 @@ We have structured the book as follows:
 - Chapter 4: [Different Types of Supervision Sessions](#supervision_types)
 - Chapter 5: [Examples of Group Supervision Sessions](#supervision_examples)
 - Chapter 6: [Employability and Transferable Skills](#employability)
-- Chapter 7: [Finding What Works for You](#what_works)
+- Chapter 7: [Finding What Works for You](#what_works) 
 
 ### Partner Book
 
